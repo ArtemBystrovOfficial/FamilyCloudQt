@@ -11,4 +11,4 @@
 --------------------------------
 Демо-версия: https://drive.google.com/drive/folders/1lr9gxdvxi2DK3671aFxTLnyLSdNb5Hil?usp=sharing
 
-![Image alt]https://github.com/ArtemBystrovOfficial/FamilyCloudQt/raw/main/FamilyCloud.jpg
+[Image alt]https://github.com/ArtemBystrovOfficial/FamilyCloudQt/raw/main/FamilyCloud.jpg
