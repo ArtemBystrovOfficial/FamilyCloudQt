@@ -9,4 +9,4 @@
 а программа делает такое хранилище за вас. 
 3) Возможность убрать сортировку по дням при нажатие чекбокса
 --------------------------------
-Демо-версия: https://drive.google.com/drive/folders/1lr9gxdvxi2DK3671aFxTLnyLSdNb5Hil
+Демо-версия: https://drive.google.com/drive/folders/1lr9gxdvxi2DK3671aFxTLnyLSdNb5Hil?usp=sharing
