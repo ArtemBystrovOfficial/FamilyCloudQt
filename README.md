@@ -10,3 +10,5 @@
 3) Возможность убрать сортировку по дням при нажатие чекбокса
 --------------------------------
 Демо-версия: https://drive.google.com/drive/folders/1lr9gxdvxi2DK3671aFxTLnyLSdNb5Hil?usp=sharing
+
+https://github.com/ArtemBystrovOfficial/FamilyCloudQt/raw/main/FamilyCloud.jpg
